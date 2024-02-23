@@ -1,0 +1,21 @@
+*body{
+
+  
+    font-family: 'Raleway', sans-serif;
+
+    box-sizing: border-box;
+
+    
+
+   
+}
+
+.login-form{
+
+background-color: rgb(32, 90, 141);
+padding: 20px;
+border-radius: 5px;
+max-width: 500px;
+margin: 0 auto;
+}
+
